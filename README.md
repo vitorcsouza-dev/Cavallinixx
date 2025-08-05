@@ -1,6 +1,5 @@
 <h1 align="center">🤖 Olá, GitHub! 🚀</h1>
 <div align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHdrOGd0MG9xZHZyOTZ4OTcyOTN2anF2ZDNkOHRjaW15bzdndWh1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/102ygrIsUGwAQU/giphy.gif" width="150px">
 </div>
 
 ### 👨🏻‍💻 QUEM SOU:
