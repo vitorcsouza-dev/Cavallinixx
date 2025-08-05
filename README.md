@@ -1,22 +1,39 @@
-## Olá! Eu sou o Vitor Cavallini!
+<h1 align="center">🤖 Olá, GitHub! 🚀</h1>
+<div align="center">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHdrOGd0MG9xZHZyOTZ4OTcyOTN2anF2ZDNkOHRjaW15bzdndWh1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/102ygrIsUGwAQU/giphy.gif" width="150px">
+</div>
 
+### 👨🏻‍💻 QUEM SOU:
+- 🎓 Formado no curso de Tecnologia da Informação pelo Senac São Bernardo do Campo.
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/v.cavallinisz)
+- 💼 Desenvolvedor iniciante e entusiasta de tecnologia.
 
+- 💡 Apaixonado por tecnologia, programação e soluções inovadoras. Me interesso por IA, desenvolvimento web, automações e sistemas inteligentes.
 
-## Linguagens que eu utilizo 
+- 📚 Certificações em IT Essentials (Cisco) e Excel Avançado (SENAI), com foco contínuo em aprendizado e prática.
 
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img align="center" alt="python" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  
-  </div><br/>
+- 🧠 Curioso, determinado e em constante evolução pessoal e profissional.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cavallinixx&layout=donut-vertical)](https://github.com/Cavallinixx/github-readme-stats)
-  
+### 🎯 MEUS ATUAIS FOCOS:
+- Front-end (HTML, CSS, JavaScript, Bootstrap);
+- Back-end (PHP, Python, Flask, MySQL);
+- Integração com IA (ChatGPT, APIs);
+- Criação de projetos úteis e acessíveis para o cotidiano.
 
+### 💻 TECNOLOGIAS QUE USO:
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,python,mysql,git,github" />
 
+### 🗣️ IDIOMAS:
+- <img src="https://flagcdn.com/w40/br.png" width="20"> Português (Nativo)  
+- <img src="https://flagcdn.com/w40/us.png" width="20"> Inglês (Básico)  
+- <img src="https://flagcdn.com/w40/es.png" width="20"> Espanhol (Básico)
+
+### 🤝 VAMOS CONVERSAR?
+- 💼 [LinkedIn](https://www.linkedin.com/in/vitor-cavallini-de-souza-5b4a32343/)
+- 📧 Email: vicavallinisouza@gmail.com
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
