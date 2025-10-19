@@ -3,13 +3,13 @@
 </div>
 
 ### 👨🏻‍💻 QUEM SOU:
-- 🎓 Formado no curso de Tecnologia da Informação pelo Senac São Bernardo do Campo.
+- 🎓Estudante de Análise e Desenvolvimento de Sistemas na USCS, com formação técnica em Tecnologia da Informação pelo Senac SBC.
 
 - 💼 Desenvolvedor iniciante e entusiasta de tecnologia.
 
 - 💡 Apaixonado por tecnologia, programação e soluções inovadoras. Me interesso por IA, desenvolvimento web, automações e sistemas inteligentes.
 
-- 📚 Certificações em IT Essentials (Cisco) e Excel Avançado (SENAI), com foco contínuo em aprendizado e prática.
+- 📚 Certificações em IT Essentials - CISCO, Bussiness Intelligence (Bi) - FIAP, com foco contínuo em aprendizado e prática.
 
 - 🧠 Curioso, determinado e em constante evolução pessoal e profissional.
 
