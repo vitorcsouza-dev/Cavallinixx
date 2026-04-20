@@ -9,7 +9,7 @@
 
 - 💡 Apaixonado por tecnologia, programação e soluções inovadoras. Me interesso por IA, desenvolvimento web, automações e sistemas inteligentes.
 
-- 📚 Certificações em IT Essentials - CISCO, Bussiness Intelligence (Bi) - FIAP, com foco contínuo em aprendizado e prática.
+- 📚 Certificações em IT Essentials - CISCO, Business Intelligence (Bi) - [FIAP](https://www.fiap.com.br/?utm_term=fiap&utm_campaign=PSQ%20-%20Institucional%20-%20FIAP%20Institucional&utm_source=adwords&utm_medium=ppc&hsa_acc=5249877522&hsa_cam=283477471&hsa_grp=19962859231&hsa_ad=611807872041&hsa_src=g&hsa_tgt=kwd-452097382&hsa_kw=fiap&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=283477471&gbraid=0AAAAADqmiBDy7duiXPbbenRkZiGSTdbSE&gclid=CjwKCAjwnZfPBhAGEiwAzg-VzI35nZ6c3n8IJBMXTI983kL44HE0vCZuT2VO91RtUF--1ACWCfsHmRoCwNcQAvD_BwE), com foco contínuo em aprendizado e prática.
 
 - 🧠 Curioso, determinado e em constante evolução pessoal e profissional.
 
