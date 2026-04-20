@@ -3,7 +3,7 @@
 </div>
 
 ### 👨🏻‍💻 QUEM SOU:
-- 🎓Estudante de Análise e Desenvolvimento de Sistemas na USCS, com formação técnica em Tecnologia da Informação pelo Senac SBC.
+- 🎓Estudante de Análise e Desenvolvimento de Sistemas na [USCS](https://uscs.edu.br/), com formação técnica em Tecnologia da Informação pelo [Senac SBC](https://www.sp.senac.br/senac-sao-bernardo-do-campo).
 
 - 💼 Desenvolvedor iniciante e entusiasta de tecnologia.
 
